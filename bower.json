@@ -1,0 +1,21 @@
+{
+  "name": "project1",
+  "homepage": "https://github.com/Mckenney85/project1",
+  "authors": [
+    "Justin Mckenney"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
